@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a basic recipe website. This project will demonstrate the foundational knowledge I have learned from my time in The Odin Project. This will utilize proprer HTML boilplate framework, anchors, images, absolute and relative pathways, lists, paragraphs, and strong and emphasis tags as well.
